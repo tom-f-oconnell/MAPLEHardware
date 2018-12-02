@@ -1,0 +1,5 @@
+
+- move olfactory two-choice dependent stuff to my choice repo
+
+- break alternate slides out to their own repo, and maybe submodule that here?
+
